@@ -2,6 +2,7 @@ import React from "react";
 import { InfoVendedor } from "../InfoVendedor";
 import { Container, Panel, Column, Galeria, Description, Section} from "./styles";
 import { ProductoVenta } from "../ProductoVenta";
+
 export const Producto = () => {
   return (
     <Container>

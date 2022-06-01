@@ -20,24 +20,17 @@ display: flex;
 align-items: center;
 justify-content: center;
 height: 530px;
-
 >img{
     height: 75%
 }
 `
-
-
-
-export const ProductoVenta = styled.div``
-
-export const InfoVendedor = styled.div``
 
 export const Description = styled.div`
 border-top: 1px solid var(--border);
 width: 88%;
 margin: 0 auto;
 padding: 40px 0;
->h5{
+>h4{
     color: var(--text1);
     font-size: 24px;
     margin-bottom: 32px;
